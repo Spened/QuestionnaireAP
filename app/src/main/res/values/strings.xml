@@ -8,5 +8,7 @@
     <string name="libFaux">Faux</string>
     <string name="libVerif">Vérifier</string>
     <string name="libSuivant">Suivant</string>
-    <string name="libQuestion2">Quelle est la capitale de l\'Argentine</string>
+    <string name="libQuestion2">Quelle est la capitale de l\'Argentine ?    </string>
+    <string name="libQuestion3">Sur quelle continant se trouve le Belize ?</string>
+    <string name="libQuestion4">Quelles couleurs sont présentes sur le drapeau de la Jamaïque ?</string>
 </resources>

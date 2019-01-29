@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Questionnaire</string>
+    <string name="libQuestion">Qui es-tu ?</string>
+    <string name="libNom">Nom :</string>
+    <string name="libOK">Continuer !</string>
+    <string name="libQuestion1">La capital du Japon est Tokyo ?</string>
+    <string name="libVrai">Vrai</string>
+    <string name="libFaux">Faux</string>
+    <string name="libVerif">Vérifier</string>
+    <string name="libSuivant">Suivant</string>
+    <string name="libQuestion2">Quelle est la capitale de l\'Argentine</string>
+</resources>
